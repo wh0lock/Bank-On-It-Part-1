@@ -3,6 +3,7 @@
 ## Classes implemented during part 1: 
 ```
 class CheckingAccount implements HasMenu
+ ----------------
   double balance
  ----------------
   CheckingAccount()
