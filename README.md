@@ -99,10 +99,12 @@ Milestone 1:
   - Git repo
   - Create HasMenu interface
   - Get basic functionality of CheckingAccount class working
+
 Milestone 2: 
   - Finish working on CheckingAccount if necessary
   - Implement and test SavingsAccount
   - Start working on User class
+
 Milestone 3:
   - Finish User class
   - Implement and test Customer
